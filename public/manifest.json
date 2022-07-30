@@ -30,7 +30,7 @@
   "short_name": "Budget",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": "../public/index.html",
+  "start_url": ".",
   "description": "An app that allows you to view add and subtract funds from your budget.",
   "background_color": "#01579b",
   "theme_color": "#ffffff"
